@@ -1,0 +1,6 @@
+framework module Pods_WhatsBirds {
+  umbrella header "Pods-WhatsBirds-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WhatsBirds_WhatsBirdsUITests {
+  umbrella header "Pods-WhatsBirds-WhatsBirdsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
